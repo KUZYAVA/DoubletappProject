@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Doubletapp Project</string>
+    <string name="first">First Activity</string>
+    <string name="second">Second Activity</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="zero">0</string>
+</resources>
